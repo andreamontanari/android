@@ -42,8 +42,8 @@ Will update this section soon
 
 ### Future add-ons
 
- - ...
- - Any ideas? Write me: andrea.montanari9@gmail.com
+ - AlarmManager and Receiver for future actions with Android
+ - Any ideas? Write me: andrea.montanari92@gmail.com
 
 License
 ----
