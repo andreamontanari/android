@@ -3,7 +3,7 @@ In this repository, I will load some code snippets from the Android world, in or
 
 Uploaded example:
   - [GPS tracker](https://github.com/andreamontanari/android/blob/master/GPSTracker.java) service
-  - Android Marshmallow dangerous [permission request](https://github.com/andreamontanari/android/blob/master/SplashScreenActivity.java)
+  - Android M (Marshmallow) [dangerous permission request](https://github.com/andreamontanari/android/blob/master/SplashScreenActivity.java)
   - ...
 
 
